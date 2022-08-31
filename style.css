@@ -1,0 +1,76 @@
+.bg {
+    background-color: #000000;
+}
+
+.a-0 .section-title {
+    text-align: left;
+    color: #ffffff;
+}
+.a-0 .text,
+a-0 .section-btn {
+    color: #ffffff;
+    text-align: left;
+}
+@media (max-width: 991px) {
+    .a-0 .section-title,
+    .a-0 .section-btn,
+    .a-0 .text {
+      text-align: left;
+    }
+}
+  
+
+
+.fullscreen {
+    min-height: 100vh;
+}
+  
+.fullscreen {
+    display: flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    align-items: center;
+    min-height: 100vh;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.display-1 {
+    font-family: 'Jost', sans-serif;
+    font-size: 4.6rem;
+    line-height: 1.1;
+  }
+
+  .display-2 {
+    font-family: 'Jost', sans-serif;
+    font-size: 3rem;
+    line-height: 1.1;
+  }
+
+  .display-7 {
+    font-family: 'Jost', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+
+a:link {
+    color: white;
+    
+}
+
+a:hover {
+    color: grey;
+}
+  
+
+a:visited {
+    color: white;
+  }
+
+body {
+    background-color:#000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
